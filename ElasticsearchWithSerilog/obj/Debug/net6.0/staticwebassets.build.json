@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OC9w4bbTCcMda4sOKGbDXdmOUhHZSssfryUIR5/pBQQ=",
+  "Source": "ElasticsearchWithSerilog",
+  "BasePath": "_content/ElasticsearchWithSerilog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
